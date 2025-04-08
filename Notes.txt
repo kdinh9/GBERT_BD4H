@@ -1,0 +1,16 @@
+Notes and Useable links
+
+Patient Record Identification:
+    https://archive.physionet.org/mimic2/UserGuide/node12.html
+
+
+How to Convert NDC to ATC codes
+    For conversions, convert NDC -> RxCui -> ATC
+    To Convert to NDC to RxCui you can
+        Use the RxNorm API
+        Use fabkury's script 
+            https://github.com/fabkury/n2c
+        Use RxMix or RxNav
+            https://mor.nlm.nih.gov/RxMix/
+    How to Read ATC codes 
+        https://www.who.int/tools/atc-ddd-toolkit/atc-classification

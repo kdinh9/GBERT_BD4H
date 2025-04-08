@@ -1,0 +1,6 @@
+rxnorm.findRxcuiById
+ (allsrc:"1", 
+  idtype:"NDC"):idGroup.rxnormId
+rxclass.getClassByRxNormDrugId
+ (relaSource:"ATC", 
+  relas:"ALL"):rxclassDrugInfoList.rxclassDrugInfo.rxclassMinConceptItem.classId
