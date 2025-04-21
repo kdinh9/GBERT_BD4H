@@ -10,6 +10,8 @@ To use the files, add the following tables from MIMICIII into the data folder:
 
 From the GAMENet Repository add:
   ndc2rxnorm_mapping.txt
-  
+
+For models: Run the pipeline.ipynb file
+For additional EDA: run the etl.ipynb file
   
   
